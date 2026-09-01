@@ -118,7 +118,6 @@
 
 </div>
 
-> Replace `tijilkumar` above with your actual GitHub username in all four stat links.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=2&section=header" width="100%"/>
 
